@@ -395,7 +395,7 @@
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
 * [⁠ReelSave](https://reelsave.app/) - Instagram
-* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
+* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) [1024TeraDL](https://1024teradl.com/) or [1024TeraBoxDL](https://1024teraboxdl.com/) - ⁠TeraBox Video Downloaders
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 * [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
